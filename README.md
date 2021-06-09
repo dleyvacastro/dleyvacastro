@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dleyvacastro)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dleyvacastro&show_icons=true&theme=radical)
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dleyvacastro&theme=dark&hide_border=true&dates=DD2727)](https://git.io/streak-stats)
 
