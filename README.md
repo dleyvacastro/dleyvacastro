@@ -1,8 +1,21 @@
-### Hi there 👋
-[![MasterHead](https://user-images.githubusercontent.com/62482485/121430580-e65d6300-c93d-11eb-8549-e8f73477df71.png)](https://github.com/dleyvacastro)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dleyvacastro&show_icons=true&theme=gruvbox)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dleyvacastro&theme=dark&hide_border=true&dates=DD2727)](https://git.io/streak-stats)
+<h2 align="center">
+  Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
+ 
+<br>
 
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=dleyvacastro&show_icons=true&theme=gruvbox">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dleyvacastro&hide=html,css,java,shaderlab,kotlin,hlsl&theme=gruvbox">
+</p>
+
+<p align = "center">
+ <img  src="http://github-readme-streak-stats.herokuapp.com?user=dleyvacastro&theme=dark&hide_border=true&dates=DD2727)](https://git.io/streak-stats0" />
+</p> 
+
+<p align = "center">
+ <img  src="https://spotify-recently-played-readme.vercel.app/api?user=dleyvacastro" />
+</p> 
 
 
 <!--
