@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-[![Dleyvacastro's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display:flex;margin:10px;padding:20px"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dleyvacastro&count_private=truei&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dleyvacastro&count_private=true&theme=tokyonight&layout=compact" />
+</div>
+
+![imagen](https://user-images.githubusercontent.com/62482485/121429574-ae095500-c93c-11eb-911a-29cb98a145aa.png)
+
 
 <!--
 **dleyvacastro/dleyvacastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
