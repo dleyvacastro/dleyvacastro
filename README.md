@@ -1,9 +1,3 @@
-<h2 align="center">
-  Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
- 
-<br>
-
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=dleyvacastro&show_icons=true&theme=gruvbox">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dleyvacastro&hide=html,css,java,shaderlab,kotlin,hlsl&theme=gruvbox">
