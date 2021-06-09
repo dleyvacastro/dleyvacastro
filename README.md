@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-<div style="display:flex;margin:10px;padding:20px"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dleyvacastro&count_private=truei&show_icons=true&theme=tokyonight" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dleyvacastro&count_private=true&theme=tokyonight&layout=compact" />
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dleyvacastro)](https://github.com/anuraghazra/github-readme-stats)
 
-![imagen](https://user-images.githubusercontent.com/62482485/121429574-ae095500-c93c-11eb-911a-29cb98a145aa.png)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dleyvacastro&theme=dark&hide_border=true&dates=DD2727)](https://git.io/streak-stats)
 
 <!--
 **dleyvacastro/dleyvacastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
